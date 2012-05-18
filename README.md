@@ -40,7 +40,7 @@ How can I set up a symlink farm?
 
 To better understand how to set up a symlink farm, take a look at the this picture:
 
-![](raw/master/screenshots/symlinker-full-screenshot.png)
+![](symlinker/raw/master/screenshots/symlinker-full-screenshot.png)
 
 I use the MediaWiki content management system here. I have a special directory, /web/monda/apps where I keep the installations of the CMSes that I use.
 
