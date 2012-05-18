@@ -3,7 +3,7 @@ symlinker
 
 Symlinker is a minimalistic web-based file manager written in PHP that is built to primarily operate on symlinks and here's how it looks:
 
-![](raw/master/screenshots/symlinker-cropped-screenshot.png)
+![](screenshots/symlinker-cropped-screenshot.png)
 
 Why would I use it?
 -------------------
@@ -40,7 +40,7 @@ How can I set up a symlink farm?
 
 To better understand how to set up a symlink farm, take a look at the this picture:
 
-![](raw/master/screenshots/symlinker-full-screenshot.png)
+![](screenshots/symlinker-full-screenshot.png)
 
 I use the MediaWiki content management system here. I have a special directory, /web/monda/apps where I keep the installations of the CMSes that I use.
 
