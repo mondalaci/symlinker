@@ -3,7 +3,7 @@ symlinker
 
 Symlinker is a minimalistic web-based file manager written in PHP that is built to primarily operate on symlinks and here's how it looks:
 
-![](/screenshots/symlinker-cropped-screenshot.png)
+![](symlinker/raw/master/screenshots/symlinker-cropped-screenshot.png)
 
 Why would I use it?
 -------------------
