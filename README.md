@@ -42,8 +42,8 @@ To better understand how to set up a symlink farm, take a look at the this pictu
 
 ![](symlinker/raw/master/screenshots/symlinker-full-screenshot.png)
 
-I use the MediaWiki content management system here. I have a special directory, /web/monda/apps where I keep the installations of the CMSes that I use.
+I use the MediaWiki content management system here. I have a special directory, `/web/monda/apps` where I keep the installations of the CMSes that I use.
 
-First, I create a symlink with the filename mediawiki which points to ../../apps/mediawiki-1.9.3, the exact version of the MediaWiki installation which I want to use within this directory. Later when I want to upgrade MediaWiki, I can just change the target of this symlink to point to a more recent version of MediaWiki.
+First, I create a symlink with the filename `mediawiki` which points to `../../apps/mediawiki-1.9.3`, the exact version of the MediaWiki installation which I want to use within this directory. Later when I want to upgrade MediaWiki, I can just change the target of this symlink to point to a more recent version of MediaWiki.
 
-As you can see, most of the filenames in this directory are symlinked to mediawiki, but some are not. This is because most CMS holds some data which are specific to the individual CMS instances so they must have their own separate directory.
+As you can see, most of the filenames in this directory are symlinked to `mediawiki`, but some are not. This is because most CMS holds some data which are specific to the individual CMS instances so they must have their own separate directory.
