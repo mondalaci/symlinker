@@ -26,7 +26,7 @@ How can I install it?
 How can I use it?
 -----------------
 
-First, point your browser to the URL where you put symlinker.php. Symlinker will ask you the login password, so enter it correctly and log in.
+First, point your browser to the URL where you put `symlinker.php`. Symlinker will ask you the login password, so enter it correctly and log in.
 
 If everything went well, you should see a page that resembles the picture that you can see on the top of this page. Let's see what operations you can use here:
 
