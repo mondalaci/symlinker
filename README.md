@@ -19,9 +19,9 @@ This scenario is a perfect one where Symlinker comes handy.
 How can I install it?
 ---------------------
 
-1. Download symlinker.php and put it somewhere under your webspace.
-2. Set the $password variable in the beginning of symlinker.php. This will be your login password that Symlinker will ask you upon login.
-3. You may also set the $default_path variable in the beginning of symlinker.php. This will be your default path after login.
+1. Download `symlinker.php` and put it somewhere under your webspace.
+2. Set the `$password` variable in the beginning of `symlinker.php`. This will be your login password that Symlinker will ask you upon login.
+3. You may also set the `$default_path` variable in the beginning of `symlinker.php`. This will be your default path after login.
 
 How can I use it?
 -----------------
