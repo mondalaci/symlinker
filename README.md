@@ -5,7 +5,7 @@ Symlinker is a minimalistic web-based file manager written in PHP that is built 
 
 ![](https://raw.github.com/mondalaci/symlinker/master/screenshots/symlinker-cropped-screenshot.png)
 
-![](/mondalaci/symlinker/raw/master/symlinker-cropped-screenshot.png)
+![](/mondalaci/symlinker/raw/master/screenshots/symlinker-cropped-screenshot.png)
 
 Why would I use it?
 -------------------
