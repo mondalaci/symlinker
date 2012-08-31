@@ -3,8 +3,6 @@ symlinker
 
 Symlinker is a minimalistic web-based file manager written in PHP that is built to primarily operate on symlinks and here's how it looks:
 
-![](https://raw.github.com/mondalaci/symlinker/master/screenshots/symlinker-cropped-screenshot.png)
-
 ![](/mondalaci/symlinker/raw/master/screenshots/symlinker-cropped-screenshot.png)
 
 Why would I use it?
@@ -41,8 +39,6 @@ How can I set up a symlink farm?
 --------------------------------
 
 To better understand how to set up a symlink farm, take a look at the this picture:
-
-![](symlinker/raw/master/screenshots/symlinker-full-screenshot.png)
 
 ![](/mondalaci/symlinker/raw/master/screenshots/symlinker-full-screenshot.png)
 
