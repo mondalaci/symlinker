@@ -195,7 +195,7 @@ function get_filelist($path)
         if (is_link($filepath)) {
             $target = readlink($filepath);
             $filename = "<input type=\"hidden\" name=\"source_$id\" value=\"$escaped_filepath\">" .
-                        "$filename &rArr ".
+                        "$filename &rArr; ".
                         "<input type=\"text\" name=\"destination_$id\" value=\"$target\">";
             $id++;
 
